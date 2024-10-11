@@ -1,16 +1,7 @@
 ## Hello there 👋, I'm Lucas
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagen en GitHub</title>
-</head>
-<body>
-    <img src="![image](https://github.com/user-attachments/assets/24a0df17-e01b-40ee-a57b-c58f28d6ca64)" width="500">
-</body>
-</html>
+![53520d95-f67f-43dc-b55a-2b9271d77ae3](https://github.com/user-attachments/assets/5ffaa969-3d6f-478c-ad08-453e5aff32be)
+
 
 
 <!--

@@ -1,7 +1,6 @@
 ## Hello there 👋, I'm Lucas
 
-![53520d95-f67f-43dc-b55a-2b9271d77ae3](https://github.com/user-attachments/assets/5ffaa969-3d6f-478c-ad08-453e5aff32be)
-
+![Captura de pantalla 2024-10-11 200349](https://github.com/user-attachments/assets/ceacc052-505c-4b83-9367-155ca0afdea0)
 
 
 <!--

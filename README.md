@@ -1,5 +1,18 @@
 ## Hello there 👋, I'm Lucas
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagen en GitHub</title>
+</head>
+<body>
+    <img src="![image](https://github.com/user-attachments/assets/24a0df17-e01b-40ee-a57b-c58f28d6ca64)" width="500">
+</body>
+</html>
+
+
 <!--
 **Lucas-F-Analysis/Lucas-F-Analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

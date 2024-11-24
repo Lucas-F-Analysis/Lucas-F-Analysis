@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm Lucas
 
-![image](https://github.com/user-attachments/assets/3f9594d8-da3a-49c9-9dfb-e450e61a2cbe)
+![image](https://github.com/user-attachments/assets/496377ee-80d5-44a2-9c4f-50fa4688631a)
 
 <!--
 **Lucas-F-Analysis/Lucas-F-Analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
